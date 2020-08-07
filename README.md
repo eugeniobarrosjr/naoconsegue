@@ -33,7 +33,7 @@ Instale globalment e rode o comando:
  - [Omaewa](https://github.com/BrOrlandi/omaewa/)
  
  
- ## Creditos
+## Creditos
  
  - [imdanielpiva](https://github.com/imdanielpiva)
  
