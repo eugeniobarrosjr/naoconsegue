@@ -1,6 +1,6 @@
 {
   "name": "naoconsegue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Moises... Não consegue né\n\n",
   "main": "src/cli.js",
   "scripts": {
