@@ -1,14 +1,14 @@
 {
-  "name": "tomanocupacero",
-  "version": "0.0.4",
-  "description": "Toma no cu pacero eu to chei de odio",
+  "name": "naoconsegue",
+  "version": "0.0.1",
+  "description": "Moises... Não consegue né\n\n",
   "main": "src/cli.js",
   "scripts": {
     "start": "node src/cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/imdanielpiva/tomanocupacero.git"
+    "url": "git+ssh://git@github.com/eugeniobarrosjr/naoconsegue.git"
   },
   "keywords": [
     "mc",
@@ -20,9 +20,9 @@
     "tomanocupacero": "./src/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/imdanielpiva/tomanocupacero/issues"
+    "url": "https://github.com/eugeniobarrosjr/naoconsegue/issues"
   },
-  "homepage": "https://github.com/imdanielpiva/tomanocupacero#readme",
+  "homepage": "https://github.com/eugeniobarrosjr/naoconsegue#readme",
   "dependencies": {
     "meow": "^7.0.1"
   }
