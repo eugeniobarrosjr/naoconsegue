@@ -11,10 +11,11 @@
     "url": "git+ssh://git@github.com/eugeniobarrosjr/naoconsegue.git"
   },
   "keywords": [
-    "mc",
-    "poze"
+    "moises",
+    "nao",
+    "consegue"
   ],
-  "author": "Daniel Piva <imdanielpiva@gmail.com>",
+  "author": "Eugênio Barros <eugenio.barros.jr@gmail.com>",
   "license": "MIT",
   "bin": {
     "tomanocupacero": "./src/cli.js"
